@@ -5,3 +5,4 @@
 
 [More Info](https://github.com/OrlinVasilev/github-profile-summary-cards)
  -->
+https://github-readme-stats.vercel.app/api?username=OrlinVasilev&count_private=true&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&hide=stars
